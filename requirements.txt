@@ -1,0 +1,5 @@
+requests
+undetected-chromedriver
+selenium
+Pillow
+rich
